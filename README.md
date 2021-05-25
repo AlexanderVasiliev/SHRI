@@ -1,5 +1,7 @@
 # SHRI
 
+![version](https://img.shields.io/badge/lection-v.0.1.0-orange)
+
 ## Полезные ссылки
 - [Шпаргалка по командам](https://github.com/arslanbilal/git-cheat-sheet)
 - [Awesome git](https://github.com/dictcp/awesome-git)
