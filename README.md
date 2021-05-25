@@ -1,6 +1,7 @@
 # SHRI
 
-![status](https://img.shields.io/badge/waiting-for%20start-yellow)
+
+![status](https://img.shields.io/badge/status-in_progress-blue)
 
 ## Полезные ссылки
 - [Шпаргалка по командам](https://github.com/arslanbilal/git-cheat-sheet)
