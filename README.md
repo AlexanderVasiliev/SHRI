@@ -1,5 +1,7 @@
 # SHRI
 
+![status](https://img.shields.io/badge/waiting-for%20start-yellow)
+
 ## Полезные ссылки
 - [Шпаргалка по командам](https://github.com/arslanbilal/git-cheat-sheet)
 - [Awesome git](https://github.com/dictcp/awesome-git)
