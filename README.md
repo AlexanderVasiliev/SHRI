@@ -1,6 +1,6 @@
 # SHRI
 
-![version](https://img.shields.io/badge/lection-v.0.2.0-orange)
+![version](https://img.shields.io/badge/lection-v.1.0.0-orange)
 ![status](https://img.shields.io/badge/status-in_progress-green)
 
 ## Полезные ссылки
